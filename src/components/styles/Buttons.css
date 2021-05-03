@@ -1,0 +1,27 @@
+button {
+  border: none;
+  margin: 0 0 0 10px;
+  padding: 7px 10px;
+  text-align: end;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 5px;
+  color: white;
+}
+
+.red {
+  background: #e50914;
+}
+.ghost {
+  background: none;
+  border: 1px white solid;
+}
+
+button .font {
+  font-size: 15px;
+  margin: 0 5px;
+}
+.font:hover {
+  cursor: pointer;
+  color: #e50914;
+}
