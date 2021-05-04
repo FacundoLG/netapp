@@ -3,14 +3,20 @@ button {
   margin: 0 0 0 10px;
   padding: 7px 10px;
   text-align: end;
-  font-size: 15px;
+  font-size: 17px;
   font-weight: bold;
   border-radius: 5px;
   color: white;
 }
 
-.red {
-  background: #e50914;
+.yellow {
+  background: #fff70d;
+  color: #000;
+  font-weight: bold;
+}
+.yellow:hover {
+  opacity: 0.8;
+  transition: 200ms;
 }
 .ghost {
   background: none;

@@ -4,6 +4,7 @@ import Header from './components/Header'
 import './App.css';
 import './components/styles/Header.css'
 import './components/styles/Buttons.css';
+import './components/styles/Nav.css';
 
 
 function App() {
