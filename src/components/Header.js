@@ -8,8 +8,8 @@ function Header(){
                     <h1>Neflicx</h1>
                 </div>
                 <div className="buttonsContainer">
-                    <Button type="ghost" content="Language"/>
-                    <Button type="red" content="Register"/>
+                    <Button type="ghost" content="English"/>
+                    <Button type="red" content="Sign In"/>
                 </div>
             </header>
         </div>
