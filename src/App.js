@@ -15,7 +15,7 @@ function App() {
     <div className="App">
       <Header>
       </Header>
-      <Album>
+      <Album albumName="AM" artist="Artic Monkeys" imgSrc="https://upload.wikimedia.org/wikipedia/commons/e/e7/%22AM%22_%28Arctic_Monkeys%29.jpg">
       </Album>
       <Album>
       </Album>

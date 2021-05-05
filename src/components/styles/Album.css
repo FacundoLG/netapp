@@ -1,7 +1,7 @@
 .albumContainer {
   height: 500px;
   background: #101010;
-  padding: 20px 0px;
+  padding: 30px 0px;
   border-bottom: solid 5px rgb(63, 63, 63);
 }
 .albumName {
@@ -14,14 +14,31 @@
 .album {
   margin: 0px 0 0 30px;
   display: flex;
-  background: rgb(21, 21, 21);
-  height: 70%;
+  background: #101010;
+  height: 300;
   overflow-anchor: hidden;
 }
 .songImg {
-  min-width: 300px;
-  width: 23%;
-  height: 100%;
-  background: white;
+  width: 300px;
+  height: 300px;
+  background: #fff70dab;
   overflow: hidden;
+  border-radius: 5px 5px 0px 0px;
+  display: flex;
+  background-size: 300px;
+  background-position: unset;
+  background-repeat: no-repeat;
+}
+.soundControler {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 50px;
+  background: #fff70dab;
+  border-radius: 0 0 15px 15px;
+}
+.soundControler .control {
+  margin: 0px 15px;
+  font-size: 20px;
 }
