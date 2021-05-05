@@ -10,7 +10,7 @@ function Nav(){
                 Here you can filter by name or kind
             </p>
             <div className="inputGroup">
-                <input className="searchInput" type="text"/>
+                <input className="searchInput" placeholder="Not implemented" type="text"/>
                 <Button type="yellow" content="Search"/>
             </div>
         </div>

@@ -11,7 +11,7 @@
   background-repeat: no-repeat;
   height: 100vh;
   padding-bottom: 20px;
-  border-bottom: rgb(63, 63, 63) 12px solid;
+  border-bottom: rgb(63, 63, 63) 8px solid;
 }
 header {
   display: flex;
@@ -24,12 +24,12 @@ header {
   );
 }
 .icon {
-  margin: 0px 40px;
+  margin: 0px 20px;
 }
 .icon h1 {
   font-size: 33px;
   color: #fff70d;
 }
 .buttonsContainer {
-  margin: 0px 50px;
+  margin: 0px 20px;
 }
